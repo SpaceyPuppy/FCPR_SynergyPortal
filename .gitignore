@@ -1,0 +1,30 @@
+# Laravel app dependencies and generated files
+customer-portal/vendor/
+customer-portal/node_modules/
+customer-portal/.env
+customer-portal/.env.backup
+customer-portal/storage/logs/*.log
+customer-portal/storage/framework/cache/
+customer-portal/storage/framework/sessions/
+customer-portal/storage/framework/views/
+customer-portal/bootstrap/cache/*.php
+customer-portal/public/build/
+customer-portal/public/hot
+customer-portal/database/database.sqlite
+
+admin-portal/vendor/
+admin-portal/node_modules/
+admin-portal/.env
+admin-portal/.env.backup
+admin-portal/storage/logs/*.log
+admin-portal/storage/framework/cache/
+admin-portal/storage/framework/sessions/
+admin-portal/storage/framework/views/
+admin-portal/bootstrap/cache/*.php
+admin-portal/public/build/
+admin-portal/public/hot
+admin-portal/database/database.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
